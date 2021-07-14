@@ -1,7 +1,6 @@
 Hi, I'm Kevin! 👋<br>
 
-![image](https://user-images.githubusercontent.com/47671358/125680102-ac17749a-81cb-4476-bb12-bb5aeb4157c1.png)
-
+![Plant](https://user-images.githubusercontent.com/47671358/125680542-5ee8bcab-1b78-4897-95d2-4a060756ec1c.PNG)
 
 📓 I’m currently learning game development with Unity<br>
 ✉️ kevinml1998ml@gmail.com<br>
