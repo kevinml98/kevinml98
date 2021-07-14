@@ -1,6 +1,3 @@
-![image](https://user-images.githubusercontent.com/47671358/125680794-ee325265-e02d-4070-ba1a-39b55879fd97.png)
-
-
 Hi, I'm Kevin! 👋<br>
 
 📓 I’m currently learning game development with Unity<br>
