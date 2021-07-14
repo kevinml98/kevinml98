@@ -1,4 +1,4 @@
-![Plant](https://user-images.githubusercontent.com/47671358/125680542-5ee8bcab-1b78-4897-95d2-4a060756ec1c.PNG)
+![Plant](https://user-images.githubusercontent.com/47671358/125680661-211029bc-1a22-4164-809e-6300e5f17147.PNG)
 
 Hi, I'm Kevin! 👋<br>
 
